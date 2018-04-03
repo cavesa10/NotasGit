@@ -1,5 +1,5 @@
 ### git log
-Muestra todo el historial de commits del repositorio
+Muestra todo el historial de commits del repositorio desde un principio de los tiempos.
 
 `git log --pretty=format:"%h - %an, %ar : %s"`
 
