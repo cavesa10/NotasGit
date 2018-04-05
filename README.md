@@ -21,3 +21,5 @@ git config --global core.editor Code
 git config --list
 
 ```
+
+Esta línea fue creada en la rama master.
