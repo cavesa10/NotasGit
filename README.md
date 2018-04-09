@@ -18,3 +18,4 @@ git config --global user.email cavesa10@gmail.com
 git config --global core.editor Code
 git config --list
 ```
+Esta linea se agregó desde un equipo mac conectando al repositorio local con Github a traves de HTTPS.
