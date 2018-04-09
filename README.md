@@ -18,6 +18,3 @@ git config --global user.email cavesa10@gmail.com
 git config --global core.editor Code
 git config --list
 ```
-
-## Aportes desde otra cuenta
-Este texto fue aportado desde la cuenta cavesa100
